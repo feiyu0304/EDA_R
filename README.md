@@ -20,4 +20,5 @@ Explore variables to identify the most important variables and relationships wit
 Learn powerful methods and visualizations for examining relationships among multiple variables, such as reshaping data frames and using aesthetics like color and shape to uncover more information
 
 For code in R, see [EDR_project.rmd](https://github.com/feiyu0304/EDA_R/blob/master/EDR_project.rmd)
+
 For report and visulization, copy[link](https://github.com/feiyu0304/EDA_R/blob/master/EDA_project_html.html) to [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
