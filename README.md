@@ -21,4 +21,4 @@ Learn powerful methods and visualizations for examining relationships among mult
 
 For code in R, see [EDR_project.rmd](https://github.com/feiyu0304/EDA_R/blob/master/EDR_project.rmd)
 
-For report and visulization, copy[link](https://github.com/feiyu0304/EDA_R/blob/master/EDA_project_html.html) to [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
+For report and visulization, copy [link](https://github.com/feiyu0304/EDA_R/blob/master/EDA_project_html.html) to [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
